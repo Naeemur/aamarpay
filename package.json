@@ -1,0 +1,26 @@
+{
+  "name": "aamarpay",
+  "version": "1.0.0",
+  "description": "Node JS Express JS module for using AamarPay payment gateway",
+  "main": "aamarpay.js",
+  "homepage": "https://github.com/naeemur/aamarpay#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naeemur/aamarpay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naeemur/aamarpay/issues"
+  },
+  "keywords": [
+    "aamarpay",
+    "payment gateway",
+    "bangladesh",
+    "e-commerce",
+    "digital payment"
+  ],
+  "dependencies": {
+    "node-libcurl": "^2.2.0",
+    "querystring": "^0.2.0"
+  }
+}
